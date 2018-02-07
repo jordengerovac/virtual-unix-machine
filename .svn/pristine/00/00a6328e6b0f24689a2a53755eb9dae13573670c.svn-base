@@ -1,0 +1,8 @@
+Class name: cat
+Parent class: Command
+Subclasses:
+Responsibilities: 
+*runs the following command:
+*cat file: Prints the contents of the specified files.
+Collaborators:
+*File

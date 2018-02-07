@@ -1,0 +1,28 @@
+//Sprint 4 Backlog.
+November 9th to November 14th
+
+Product Backlog items to be implemented:
+a) print out the contents of the current file or directory (including subdirectories) recursively.
+b) display the contents of a file or multiple files in the shell.
+c) recall previous commands.
+d) retrieve content from a URL and add it to the current directory.
+
+Spedific tasks to be accomplished:
+a-1. update ls command
+b-1. update cat command
+c-1. implement !number command using history class
+d-1. implement get URL command
+
+These tasks are assigned as follows:
+
+User: Justin Mao
+Tasks: d-1
+
+User: Jorden Gerovac
+Tasks: c-1
+
+User: Manpreet Nanreh
+Tasks: a-1
+
+User: Aditya Dhankar
+Tasks: b-1

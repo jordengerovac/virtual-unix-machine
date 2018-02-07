@@ -1,0 +1,9 @@
+Class name: popd
+Parent class: Command
+Subclasses: 
+Responsibilities: 
+*runs the following command:
+*popd: Pops from the directory stack and sets it to the current working
+*directory.
+Collaborators:
+

@@ -1,0 +1,7 @@
+Class name: File
+Parent class: Item
+Subclasses: 
+Responsibilities:
+*know the name of this file
+*contain strings
+Collaborators:

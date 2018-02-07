@@ -1,0 +1,31 @@
+Product Backlog:
+
+1) As a user, I can enter input.
+2) As a user, I can terminate the program.
+3) As a user, I can create directories which may be relative to the current directory or may be a full path.
+4) As a user, I can change directories which may be relative to the current directory or may be a full path.
+5) As a user, I can print out the contents of the current file or directory.
+6) As a user, I can print the working directory path.
+7) As a user, I can save the current working directory by pushing onto the directory stack and then change to a new working directory.
+8) As a user, I can change directories into the top entry from the directory stack.
+9) As a user, I can print out recent commands.
+10) As a user, I can display the contents of a file in the shell.
+11) As a user, I can create a file and overwrite the contents with a given string.
+12) As a user, I can create a file and append the contents with a given string.
+13) As a user, I can print out the documentation for any given command.
+
+Estimated Completion Time:
+
+1) 1 days
+2) 5 days
+3) 5 days
+4) 3 days
+5) 4 days
+6) 4 days
+7) 3 days
+8) 3 days
+9) 4 days
+10) 5 days
+11) 5 days
+12) 3 days
+13) 3 days

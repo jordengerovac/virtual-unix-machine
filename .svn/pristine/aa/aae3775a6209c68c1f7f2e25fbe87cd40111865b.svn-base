@@ -1,0 +1,13 @@
+What did I work on last time? 
+- made files for all classes
+- wrote input into string/function calls from OperatingSystem in JShell
+- wrote initialization of OperatingSystem and History objects
+- wrote input recording in JShell
+
+What do I plan to work on now?  
+- create History class
+- create Directory class
+- create File class
+
+Am I blocked on anything?  
+- need other classes to be written before I can test for functionality in JShell

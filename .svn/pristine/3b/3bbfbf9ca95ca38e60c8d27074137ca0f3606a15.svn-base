@@ -1,0 +1,11 @@
+Class name: OperatingSystem
+Parent class: 
+Subclasses:
+Responsibilities:
+*initialize root directory
+*know and set current working directory
+*return current working directory
+*store hierarchy of directory and file objects within
+*keeps track of a directory stack
+Collaborators:
+*Directory

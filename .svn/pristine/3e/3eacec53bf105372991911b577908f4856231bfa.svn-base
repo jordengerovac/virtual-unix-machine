@@ -1,0 +1,10 @@
+Class name: pushd
+Parent class: Command
+Subclasses: 
+Responsibilities:
+*runs the following command:
+*pushd dir: Pushes the current working directory to the directory stack and
+*sets the specified directory as the new current working directory.
+Collaborators:
+*JShell
+

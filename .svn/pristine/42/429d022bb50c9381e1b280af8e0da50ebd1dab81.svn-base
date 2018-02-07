@@ -1,0 +1,13 @@
+Class name: JShell
+Parent class: 
+Subclasses: 
+Responsibilities:
+*start system
+*ask for user input
+*create a hashmap of commands
+*runs the command
+*display output
+*end program
+Collaborators:
+*OperatingSystem
+*History

@@ -1,0 +1,9 @@
+What did I work on last time? 
+- created new crc card structure
+
+What do I plan to work on now?  
+- create input function in Shell to call OperatingSystem functions
+- write initialization of OperatingSystem and History objects
+
+Am I blocked on anything?  
+- need History class to be created

@@ -1,0 +1,38 @@
+//Sprint 3 Backlog.
+October 30th to November 4th
+
+Product Backlog items to be implemented:
+a) change directories which may be relative to the current directory or may be a full path
+b) print the working directory path
+c) print out recent commands
+d) display the contents of a file in the shell
+e) create a file and overwrite the contents with a given string
+f) save the current working directory by pushing onto the directory stack then change to a new working directory
+g) change directories into the top entry from the directory stack
+h) get documentation for commands
+
+Specific tasks to be accomplished:
+a-1. implement cd command
+b-1. implement pwd command
+c-1. implement history command
+d-1. implement cat command
+e-1. implement echo commands
+f-1. create stack class
+f-2. write initialization for stack
+f-3. implement pushd command
+g-1. implement popd command
+h-1. implement man command
+
+These tasks are assigned as follows:
+
+User: Justin Mao
+Tasks: c-1, f-1, f-2
+
+User: Jorden Gerovac
+Tasks: d-1, e-1, f-3, g-1
+
+User: Manpreet Nanreh
+Tasks: g-1
+
+User: Aditya Dhankar
+Tasks: a-1

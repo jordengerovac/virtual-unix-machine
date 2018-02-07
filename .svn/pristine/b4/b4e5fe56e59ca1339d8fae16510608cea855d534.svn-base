@@ -1,0 +1,46 @@
+package test.cmd;
+
+import static org.junit.Assert.*;
+
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+import driver.JShell;
+
+public class mkdirTest {
+  private final ByteArrayOutputStream output = new ByteArrayOutputStream();
+
+  @Before
+  public void setUpStreams() {
+    System.setOut(new PrintStream(output));
+  }
+
+  @After
+  public void cleanUpStreams() {
+    System.setOut(null);
+  }
+
+  @Test
+  /**
+   * Tests various argument cases.
+   */
+  public void testExecute() throws Exception {
+    mkdir cmd = new mkdir();
+    String[] args;
+    // make two dirs at root
+    args = new String[] {"a", "b"};
+    cmd.execute(args);
+    int numChildren = JShell.os.getLocation().getChildCount();
+    assertEquals(numChildren, 2);
+    // make existing child
+    args = new String[] {"a"};
+    cmd.execute(args);
+    assertEquals(output.toString(), "a already exists.\n");
+
+  }
+
+}

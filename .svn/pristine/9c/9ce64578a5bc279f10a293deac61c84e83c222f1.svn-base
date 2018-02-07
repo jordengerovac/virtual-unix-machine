@@ -1,0 +1,9 @@
+What did I do last time?
+- work on cat command
+
+What do I plan to do now?
+- finish cat
+- capture the output of a command and redirect it to 
+  OUTFILE (no output shown to the user)
+
+Am I blocked on anything?

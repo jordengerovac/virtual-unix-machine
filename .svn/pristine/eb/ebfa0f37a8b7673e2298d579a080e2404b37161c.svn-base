@@ -1,0 +1,8 @@
+Class name: redirect
+Parent class: Command 
+Subclasses:
+Responsibilities:
+*adds the output of another command to an outfile, creating it if it does not exist.
+*> will overwrite the file, >> will append to the file.
+Collaborators:
+*File

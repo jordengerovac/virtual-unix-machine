@@ -1,0 +1,9 @@
+Class name: cp
+Parent class: Command
+Subclasses:
+Responsibilities: 
+*runs the following command:
+*cp oldpath newpath: Copies the oldpath and its subdirectories at newpath.
+Collaborators:
+*File
+*Directory

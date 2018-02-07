@@ -1,0 +1,16 @@
+What did I work on last time?
+-Finished creating the Directory.java
+-Finished creating the File.java
+-Created the setup of OperatingSystem.java with instance variables and 
+ constructor.
+-Created the mkdir method.
+
+What do I plan to do now?
+-Finish the part of mkdir method where we make directory when user provides a 
+ full path.
+-Once I am finished mkdir, I will start working on another method after 
+ consulting with the team members.
+
+Am I blocked on anything?
+-I am trouble iterating through the tree to check if a child exists because 
+ I need that to write the second part of mkdir method.

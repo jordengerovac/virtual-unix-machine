@@ -1,0 +1,7 @@
+Class name: pwd
+Parent class: Command
+Subclasses:
+Responsibilities:
+*runs the following command:
+*pwd: Prints out the path of the current working directory.
+Collaborators:

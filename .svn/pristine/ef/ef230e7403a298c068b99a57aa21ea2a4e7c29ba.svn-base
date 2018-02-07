@@ -1,0 +1,11 @@
+Class name: echo
+Parent class: Command
+Subclasses: 
+Responsibilities: 
+*runs the following command:
+*echo string >/>> outfile: > creates outfile containing string, overwriting if
+*it already exists. >> does the same thing, but appends rather than
+*overwrites. If no outfile is specified, prints string.
+Collaborators:
+*File
+

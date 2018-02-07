@@ -1,0 +1,9 @@
+Class name: Command
+Parent class:
+Subclasses: cat, cd, echo, exit, history, ls,
+man, mkdir, popd, pushd, pwd
+Responsibilities:
+*handles and gets path
+*gives the parent of file or directory to be made
+*checks if directory/file exist in a directory
+Collaborators:

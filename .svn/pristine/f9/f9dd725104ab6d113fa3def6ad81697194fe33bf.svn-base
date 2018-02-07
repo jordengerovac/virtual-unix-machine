@@ -1,0 +1,9 @@
+Class name: cd
+Parent class: Command
+Subclasses:
+Responsibilities:
+*runs the following command:
+*cd dir: Changes the current working directory to the directory specified.
+Collaborators:
+*JShell
+*File

@@ -1,0 +1,6 @@
+Class name: File
+Parent class:
+Subclasses: File, Directory
+Responsibilities:
+*allows its subclasses to implement a name getter
+Collaborators:

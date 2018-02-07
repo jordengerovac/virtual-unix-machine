@@ -1,0 +1,28 @@
+//Sprint 5 Backlog.
+November 15th to November 20th
+
+Product Backlog items to be implemented:
+a) change the location of a file or directory
+b) copy the contents of a file or directory into a new location
+c) print out the lines of a file that contain REGEX
+d) allow for redirection with > OUTFILE or >> OUTFILE
+
+Spedific tasks to be accomplished:
+a-1. implement mv command
+b-1. implement cp command
+c-1. implement grep [-R] REGEX command
+d-1. capture the output of a command and redirect it to OUTFILE (no output shown to the user)
+
+These tasks are assigned as follows:
+
+User: Justin Mao
+Tasks: a-1
+
+User: Jorden Gerovac
+Tasks: b-1
+
+User: Manpreet Nanreh
+Tasks: c-1
+
+User: Aditya Dhankar
+Tasks: d-1

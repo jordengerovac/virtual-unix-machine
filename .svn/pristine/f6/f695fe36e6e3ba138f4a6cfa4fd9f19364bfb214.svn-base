@@ -1,0 +1,12 @@
+Class name: ls
+Parent class: Command
+Subclasses: 
+Responsibilities: 
+*runs the following command:
+*ls -R dir1 dir2...: Lists the contents of the directories specified. If no
+*directory is given, lists the contents of the current working directory.
+*If -R is given, recursively lists all subdirectories and files.
+Collaborators:
+*File
+*Directory
+

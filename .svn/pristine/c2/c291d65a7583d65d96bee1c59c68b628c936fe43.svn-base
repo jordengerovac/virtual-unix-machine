@@ -1,0 +1,8 @@
+Class name: number
+Parent class: Command
+Subclasses:
+Responsibilities: 
+*given input !n, allows the user to recall and run a command at natural number n.
+Collaborators:
+*JShell
+*History

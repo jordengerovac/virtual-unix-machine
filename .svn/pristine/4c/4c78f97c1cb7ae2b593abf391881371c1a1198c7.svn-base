@@ -1,0 +1,23 @@
+What did I work on last time? 
+- recreated files for all classes
+- wrote JShell to take input reflect onto proper classes (commands)
+- created and completed File, Directory classes
+- created and completed History class
+- created and completed OperatingSystem class
+- created and completed Command superclass and all helper functions within
+- created and completed cat
+- created and completed cd
+- created and completed echo
+- created and completed exit
+- created and completed history
+- created and completed ls
+- created and completed man
+- created and completed mkdir
+- created and completed popd
+- created and completed pushd
+- created and completed pwd
+- tested and fixed bugs
+
+What do I plan to work on now?  
+
+Am I blocked on anything?  

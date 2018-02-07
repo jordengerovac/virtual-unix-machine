@@ -1,0 +1,11 @@
+Class name: grep
+Parent class: Command
+Subclasses:
+Responsibilities: 
+*runs the following command:
+*grep [-R] regex path: Prints any lines containing regex at path. 
+*If -R is supplied, prints the files under the path and the strings 
+*that contain regex.
+Collaborators:
+*File
+*Directory

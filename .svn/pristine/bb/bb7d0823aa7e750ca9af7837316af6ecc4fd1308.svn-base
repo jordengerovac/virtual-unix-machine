@@ -1,0 +1,6 @@
+Class name: Directory
+Parent class: Item
+Subclasses:
+Responsibilities:
+*know name of this directory
+Collaborators:

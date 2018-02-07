@@ -1,0 +1,8 @@
+Class name: man
+Parent class: Command
+Subclasses: 
+Responsibilities: 
+*runs the following command:
+*man cmd: Prints out the documentation for the specified command.
+Collaborators:
+

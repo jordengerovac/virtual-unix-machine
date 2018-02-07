@@ -1,0 +1,9 @@
+Class name: mv
+Parent class: Command
+Subclasses:
+Responsibilities: 
+*runs the following command:
+*mv oldpath newpath: Moves oldpath to newpath.
+Collaborators:
+*File
+*Directory
